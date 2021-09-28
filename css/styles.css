@@ -926,7 +926,7 @@ img {
 }
 .modal-form-input:focus + .modal-form-icon {
   fill: var(--first-accent-color);
-}e
+}
 .modal-comment {
   cursor: pointer;
   width: 100%;
